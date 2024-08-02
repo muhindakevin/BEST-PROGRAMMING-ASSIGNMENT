@@ -11,6 +11,7 @@ Maintenance: Assists in maintaining the application by providing a historical re
 
 3. Understanding Logging Levels
 Logging levels help categorize the importance and type of log messages. Common levels include:
+
 FATAL: Severe errors causing premature termination.
 ERROR: Runtime errors or unexpected conditions.
 WARN: Potentially harmful situations.
